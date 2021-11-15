@@ -4,6 +4,8 @@
   
   I am an undergraduate student at the Institut Teknologi Telkom Purwokerto. My major on the telecommunications bachelor degree. I'm also interested in Artificial Intelligence and Machine Learning. Using Python, I started learn and try to build some projects in that field. Hope one day, it will be a bright future . . . Let's learn and create something good for our world !!! 
   
+  <img src= 'https://c.tenor.com/Ui4QL_I8_pEAAAAC/tea-time-yoga.gif' />
+  
 ## About Me
   
   - 🌱 I’m currently participating in the Kampus Merdeka program with Orbit Future Academy partners
