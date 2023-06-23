@@ -6,7 +6,7 @@
   
 ## About Me
   
-  - 🌱 I’m currently works as Data Analyst 
+  - 🌱 I’m currently working as Data Analyst 
   -  :octocat: Happy to learn something new
   - 💬 Come on, let's connect here!
   - 📺 So, do I. Love for watching Korean's Drama 
