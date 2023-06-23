@@ -7,7 +7,7 @@
 ## About Me
   
   - 🌱 I’m currently works as Data Analyst 
-  - :octocat: I always open to discuss and collaborate with other people
+  -  :octocat: Open to learn and collaborate with other people
   - 💬 Come on, let's connect here!
   - 📺 I love watching Korean's Drama 
 
