@@ -6,10 +6,10 @@
   
 ## About Me
   
-  - 🌱 I’m currently student at Telkom University
+  - 🌱 I’m currently works as Data Analyst 
   - :octocat: I always open to discuss and collaborate with other people
   - 💬 Come on, let's connect here!
-  - :information_desk_person: I love watching Korean's Drama 
+  - 📺 I love watching Korean's Drama 
 
   <img src= 'https://i.pinimg.com/originals/98/31/49/983149ad86716e2ae167f49c4faa0d0e.gif' />
   
